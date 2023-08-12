@@ -1,5 +1,5 @@
 <h1 align="center">hi, i'm rosne</h1>
-<h3 align="center">c++ dev, rosnehoooka dev, from the USA.</h3>
+<h3 align="center">c++ dev, rosnehook dev, from the USA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosne-gamingyt&label=Profile%20views&color=0e75b6&style=flat" alt="rosne-gamingyt    " /> </p>
 
