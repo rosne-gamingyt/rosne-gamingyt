@@ -1,6 +1,8 @@
 <h1 align="center">hi, i'm rosne</h1>
 <h3 align="center">c++ dev, rosnehook dev, from the USA.</h3>
 
+![rosne-gamingyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosne-gamingyt&count_private=true&show_icons=true&theme=dark)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosne-gamingyt&label=Profile%20views&color=0e75b6&style=flat" alt="rosne-gamingyt    " /> </p>
 
 <h3 align="left">contact me:</h3>
