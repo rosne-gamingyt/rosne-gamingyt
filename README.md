@@ -1,6 +1,6 @@
 <h1 align="center">hi, i'm rosne</h1>
 <h3 align="center">c++ dev, rosnehook dev, from the USA.</h3>
-<h3 align="center">my repos are on [RosneBurgerworks](https://github.com/RosneBurgerworks), not here</h3>
+<h3 align="center">my repos are on RosneBurgerworks: https://github.com/RosneBurgerworks</h3>
 
 ![rosne-gamingyt's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosne-gamingyt&count_private=true&show_icons=true&theme=dark)
 
