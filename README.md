@@ -9,8 +9,7 @@
 <h3 align="left">contact me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@RosneGaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Rosne Gaming" height="30" width="40" /></a>
-<a href="https://discord.gg/scd6GKmYXk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-<a href="https://steamcommunity.com/profiles/76561199191964771/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam" height="30" width="40" /></a>
+<a href="https://discord.gg/3q2xM7NNxJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 <a href="https://matrix.to/#/@rosne:matrix.org" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Element_%28software%29_logo.svg/1200px-Element_%28software%29_logo.svg.png" alt="Element" height="30" width="40" /></a>
 </p>
 
